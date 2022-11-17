@@ -1,2 +1,2 @@
 # bimm143
-UCSD Bioinformatics Fall 22
+Bioinformatics Fall 22 @ UC San Diego
