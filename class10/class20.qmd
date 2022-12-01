@@ -1,0 +1,6 @@
+---
+title: "Class 20: Hands-on with Git & online portfolio completion plus bonus Bioinformatics in industry session"
+author: "Vivian Pham"
+format: html
+---
+
